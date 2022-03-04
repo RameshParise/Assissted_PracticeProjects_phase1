@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 
-public class BudgetApproval {
+public class BussinessOperations {
 	static String DIRECTORY;
     File folder_name;
 
